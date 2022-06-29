@@ -3,3 +3,57 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* navbar */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.975);
+    padding: 1.5rem;
+    align-items: center;
+}
+
+.navbar-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-nav{
+    font-size: larger;
+    margin-left: 10rem;
+}
+
+.list-wrapper{
+    margin: 0 1rem 0 0;
+}
+
+.item-wrapper{
+    margin-left: 2rem;
+    
+}
+
+.item-wrapper>li {
+    list-style: none;
+    opacity: 0.5;
+    margin:0 1rem;
+}
+
+.icon-wrapper{
+    margin: 0 10rem;
+}
+
+.cart{
+    height: 30px;
+    margin: 0 2.5rem;
+}
+
+.logo{
+    height: 30px;
+    border-radius: 15px;
+}
