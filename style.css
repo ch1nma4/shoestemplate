@@ -85,3 +85,98 @@ body{
     margin-top: 1rem;
     border-radius: 1rem;
 }
+
+.content{
+    width:400px;
+    margin: 0 4rem;
+}
+
+.content-head{
+    font-size: 0.9rem;
+    color: orange;
+    margin-top: 0.3rem;
+}
+
+.content-text{
+    font-size: 2.8rem;
+    margin-top: 0.3rem;
+}
+
+.content-paragraph{
+    font-size: 1.1rem;
+    opacity: 0.5;
+    margin-top: 1.5rem;
+}
+
+.currency{
+    display: flex;
+    margin-top: 0.3rem;
+}
+
+.currency-text{
+    font-size: 1.5rem;
+    margin-top: 1px;
+    margin-top: 0.6rem;
+}
+
+.discount{
+    color: orange;
+    border: 1px solid beige;
+    border-radius: 0.3rem;
+    background-color: beige;
+    margin-left: 2rem;
+    margin-top: 0.6rem;
+}
+
+.currency-cancel{
+    text-decoration: line-through;
+    margin-top: 0.3rem;
+    opacity: 0.5;
+}
+
+.ATC-btn{
+    position: relative;
+    margin: 2rem -1rem;
+}
+
+.btn-name{
+    width: 8rem;
+    height: 1.5rem;
+    margin-left: 1rem;
+    border: none;
+    border-radius: 0.2rem;
+}
+
+.btn-increase{
+    margin-left:1.5rem;
+    position: absolute;
+    margin-top: 0.4rem;
+    border: none;
+    color: orange;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.btn-decrease{
+    margin-left: -1.2rem;
+    position: absolute;
+    margin-top: 0.4rem;
+    border: none;
+    color: orange;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.btn-cart{
+    margin: 0.2rem 1rem;
+    width: 10rem;
+    height: 2rem;
+    background-color: orange;
+    color: white;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.fa{
+    margin-right: 1.2rem;
+}
