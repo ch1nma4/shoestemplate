@@ -25,7 +25,7 @@ body{
 }
 
 .header-nav{
-    font-size: larger;
+    font-size: 40px;
     margin-left: 10rem;
 }
 
@@ -35,7 +35,7 @@ body{
 
 .item-wrapper{
     margin-left: 2rem;
-    
+    margin-top: 1rem;
 }
 
 .item-wrapper>li {
