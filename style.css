@@ -5,6 +5,8 @@
 }
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 1140px;
+    margin: auto;
 }
 
 /* navbar */
@@ -26,7 +28,7 @@ body{
 
 .header-nav{
     font-size: 2rem;
-    margin-left: 10rem;
+    
 }
 
 .list-wrapper{
@@ -46,7 +48,8 @@ body{
 }
 
 .icon-wrapper{
-    margin: 0 10rem;
+    
+
 }
 
 .cart{
